@@ -1,0 +1,134 @@
+
+App Thinning Size Report for All Variants of HolyShiCi
+
+Variant: HolyShiCi-04BACD9F-51A4-4664-A774-68B9FC3AC9F2.ipa
+Supported variant descriptors: [device: iPad8,3, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad11,4, os-version: 13.0], and [device: iPad7,2, os-version: 13.0]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-19D02714-E8A0-40AB-AF13-9067D22626CD.ipa
+Supported variant descriptors: [device: iPad4,4, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad5,2, os-version: 12.2], and [device: iPad7,5, os-version: 12.2]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-35C73909-E01E-481B-BFAC-D4F715974500.ipa
+Supported variant descriptors: [device: iPad11,1, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,8, os-version: 12.2], and [device: iPad6,3, os-version: 12.2]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-4A5D3D7F-8395-4883-8484-8233E3240055.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2] and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-4CD8C343-4CA0-481F-AC8F-0D8EC8E57E5A.ipa
+Supported variant descriptors: [device: iPad7,3, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,8, os-version: 12.0], and [device: iPad8,7, os-version: 12.0]
+App + On Demand Resources size: 27.1 MB compressed, 50.2 MB uncompressed
+App size: 27.1 MB compressed, 50.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-57E22643-AFF7-478C-B055-35F8F2C63D9A.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,7, os-version: 13.0], and [device: iPad6,11, os-version: 13.0]
+App + On Demand Resources size: 24.7 MB compressed, 42.9 MB uncompressed
+App size: 24.7 MB compressed, 42.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-5804D866-4B2B-4B63-86A0-214A07D26500.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], and [device: iPhone9,4, os-version: 12.2]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-5FF82702-2879-4514-AC1E-138948F415A7.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone11,8, os-version: 12.2], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-893DCB16-26CC-4FB5-9ADC-14AAA2BA1658.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], and [device: iPod9,1, os-version: 12.2]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-A57D63A2-E84A-47F3-847D-ED15987F0152.ipa
+Supported variant descriptors: [device: iPad4,4, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad6,8, os-version: 12.0], and [device: iPad4,8, os-version: 12.0]
+App + On Demand Resources size: 27.1 MB compressed, 50.2 MB uncompressed
+App size: 27.1 MB compressed, 50.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-AF077A68-EC2E-408D-807F-01B0BF11FC9F.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], and [device: iPhone12,1, os-version: 13.0]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-B0A618D9-B7D1-4BB9-B407-AB8719A0E0C9.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], and [device: iPhone10,5, os-version: 13.0]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-C928C958-1534-4B26-B5E8-61781E0EF890.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.0] and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 27.1 MB compressed, 50.2 MB uncompressed
+App size: 27.1 MB compressed, 50.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-C9572194-36F7-4685-B6FE-14072EE0F5AE.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 13.0], [device: iPod9,1, os-version: 13.0], and [device: iPhone8,1, os-version: 13.0]
+App + On Demand Resources size: 24.7 MB compressed, 42.9 MB uncompressed
+App size: 24.7 MB compressed, 42.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-CB57869F-0397-466B-847B-C2E698B01DA0.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone11,8, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], and [device: iPhone9,1, os-version: 12.0]
+App + On Demand Resources size: 27.1 MB compressed, 50.2 MB uncompressed
+App size: 27.1 MB compressed, 50.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-D948F7D4-0097-43BB-BED0-8B00E7B7CB63.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 24.7 MB compressed, 43 MB uncompressed
+App size: 24.7 MB compressed, 43 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-DCA9D013-7B9D-4319-8794-64BBF3F82F80.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], and [device: iPhone6,2, os-version: 12.0]
+App + On Demand Resources size: 27.1 MB compressed, 50.2 MB uncompressed
+App size: 27.1 MB compressed, 50.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi-EC9F8BA9-D7D0-4900-BF46-3EBE9B24DD10.ipa
+Supported variant descriptors: [device: iPhone9,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], and [device: iPhone10,6, os-version: 12.0]
+App + On Demand Resources size: 27.1 MB compressed, 50.2 MB uncompressed
+App size: 27.1 MB compressed, 50.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: HolyShiCi.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 27.3 MB compressed, 50.5 MB uncompressed
+App size: 27.3 MB compressed, 50.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
