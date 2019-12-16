@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-19D02714-E8A0-40AB-AF13-9067D22626CD.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-19D02714-E8A0-40AB-AF13-9067D22626CD.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -174,7 +174,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-A57D63A2-E84A-47F3-847D-ED15987F0152.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-A57D63A2-E84A-47F3-847D-ED15987F0152.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -321,7 +321,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-D948F7D4-0097-43BB-BED0-8B00E7B7CB63.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-D948F7D4-0097-43BB-BED0-8B00E7B7CB63.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -340,7 +340,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-57E22643-AFF7-478C-B055-35F8F2C63D9A.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-57E22643-AFF7-478C-B055-35F8F2C63D9A.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -428,7 +428,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-5FF82702-2879-4514-AC1E-138948F415A7.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-5FF82702-2879-4514-AC1E-138948F415A7.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -471,7 +471,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-04BACD9F-51A4-4664-A774-68B9FC3AC9F2.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-04BACD9F-51A4-4664-A774-68B9FC3AC9F2.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -592,7 +592,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-EC9F8BA9-D7D0-4900-BF46-3EBE9B24DD10.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-EC9F8BA9-D7D0-4900-BF46-3EBE9B24DD10.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -669,7 +669,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-893DCB16-26CC-4FB5-9ADC-14AAA2BA1658.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-893DCB16-26CC-4FB5-9ADC-14AAA2BA1658.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -726,7 +726,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-C928C958-1534-4B26-B5E8-61781E0EF890.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-C928C958-1534-4B26-B5E8-61781E0EF890.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -754,7 +754,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-C9572194-36F7-4685-B6FE-14072EE0F5AE.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-C9572194-36F7-4685-B6FE-14072EE0F5AE.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -785,7 +785,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-B0A618D9-B7D1-4BB9-B407-AB8719A0E0C9.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-B0A618D9-B7D1-4BB9-B407-AB8719A0E0C9.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -867,7 +867,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-CB57869F-0397-466B-847B-C2E698B01DA0.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-CB57869F-0397-466B-847B-C2E698B01DA0.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -916,7 +916,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-4CD8C343-4CA0-481F-AC8F-0D8EC8E57E5A.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-4CD8C343-4CA0-481F-AC8F-0D8EC8E57E5A.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1028,7 +1028,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-AF077A68-EC2E-408D-807F-01B0BF11FC9F.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-AF077A68-EC2E-408D-807F-01B0BF11FC9F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1079,7 +1079,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-5804D866-4B2B-4B63-86A0-214A07D26500.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-5804D866-4B2B-4B63-86A0-214A07D26500.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1146,7 +1146,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-35C73909-E01E-481B-BFAC-D4F715974500.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-35C73909-E01E-481B-BFAC-D4F715974500.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1272,7 +1272,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-4A5D3D7F-8395-4883-8484-8233E3240055.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-4A5D3D7F-8395-4883-8484-8233E3240055.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1297,7 +1297,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HolyStudio/tester/blob/master/apps/poem-DCA9D013-7B9D-4319-8794-64BBF3F82F80.ipa</string>
+					<string>https://github.com/HolyStudio/tester/blob/master/apps/HolyShiCi-DCA9D013-7B9D-4319-8794-64BBF3F82F80.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
